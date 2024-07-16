@@ -1,2 +1,4 @@
 # trip-planner
- Trip Activities Planner project made with HTML, CSS and JS.
+ Planejador de atividades de viagem produzido com HTML, CSS e JS.
+
+ Projeto desenvolvido durante o evento NLW Journey da Rocketseat.
